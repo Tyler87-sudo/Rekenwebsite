@@ -33,7 +33,7 @@
                       <hr class="dropdown-divider">
                   </li>
                   <li><a class="dropdown-item" href="../sudoku/index.html">Sudoku</a></li>
-                  <li><a class="dropdown-item" href="../Som_Som_Magie/index.html">Som Som Magie</a></li>
+                  <li><a class="dropdown-item" href="../somsommagie/index.html">Som Som Magie</a></li>
               </ul>
           </li>
       </ul>
