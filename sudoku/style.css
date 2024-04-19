@@ -58,3 +58,27 @@ body{
   .form-control {
     font-size: 52px;
   }
+
+
+.nav-item {
+  border: none;
+}
+
+.nav {
+  border: none;
+}
+
+.nav-pills {
+  border: none;
+}
+
+.dropdown-item {
+  border: none;
+}
+
+.dropdown-menu {
+  border: none;
+}
+.link {
+  border: none;
+}

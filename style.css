@@ -14,3 +14,19 @@ h1 {
     background-color: green;
     color: whitesmoke;
 }
+
+.nav-item {
+    border: none;
+}
+
+.nav {
+    border: none;
+}
+
+.nav-pills {
+    border: none;
+}
+
+.dropdown-item {
+    border: none;
+}
